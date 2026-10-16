@@ -288,7 +288,7 @@ def evaluate_test_samples(num_samples=24):
 
 
 # ==============================================================================
-# Rutas de la API REST (Sin HTML/CSS)
+# Rutas de la API REST
 # ==============================================================================
 
 @app.route("/", methods=["GET"])
